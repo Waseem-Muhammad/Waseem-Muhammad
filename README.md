@@ -1,7 +1,7 @@
 ![logo](https://github.com/Waseem-Muhammad/Waseem-Muhammad/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Waseem</h1>
 <h3 align="center">A passionate C++ developer and Machine learning engineer from Pakistan</h3>
-<img align="right" alt="Machine Learning" width="600" height="360" src="MachineLearning.gif">
+<img align="right" alt="Machine Learning" width="550" height="330" src="MachineLearning.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseem-sial&label=Profile%20views&color=0e75b6&style=flat" alt="waseem-sial" /> </p>
 
 
