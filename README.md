@@ -1,4 +1,4 @@
-![logo](https://github.com/Waseem-Muhammad/Waseem-Muhammad/blob/main/Github%20Banner.png)
+![logo](https://github.com/Waseem-Muhammad/Waseem-Muhammad/blob/main/Muhammad%20waseem.png)
 <h1 align="center">Hi 👋, I'm Muhammad Waseem</h1>
 <h3 align="center">A passionate C++ developer and Machine learning engineer from Pakistan</h3>
 <img align="right" alt="Machine Learning" width="550" height="330" src="MachineLearning.gif">
