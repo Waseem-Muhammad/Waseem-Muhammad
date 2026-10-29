@@ -3,8 +3,8 @@
 
 <div align="center">
   <img
-    src="Muhammad%20waseem.png"
-    alt="Muhammad Waseem Header"
+    src="mwaseem.jpeg"
+    alt="Muhammad Waseem - GitHub Profile Header"
     width="100%"
   />
 </div>
